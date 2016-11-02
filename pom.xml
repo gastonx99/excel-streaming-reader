@@ -8,7 +8,7 @@
   <version>1.0.1-1.6</version>
   <name>Streaming Excel reader</name>
   <description>Streaming Excel reader (portad till java 1.6)</description>
-  <url>https://github.com/monitorjbl/excel-streaming-reader</url>
+  <url>https://github.com/gastonx99/excel-streaming-reader</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -89,13 +89,13 @@
   <licenses>
     <license>
       <name>Apache 2.0</name>
-      <url>https://raw.githubusercontent.com/monitorjbl/excel-streaming-reader/master/LICENSE</url>
+      <url>https://raw.githubusercontent.com/gastonx99/excel-streaming-reader/master/LICENSE</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
 
   <scm>
-    <url>https://github.com/monitorjbl/excel-streaming-reader.git</url>
+    <url>https://github.com/gastonx99/excel-streaming-reader.git</url>
   </scm>
 
   <distributionManagement>
